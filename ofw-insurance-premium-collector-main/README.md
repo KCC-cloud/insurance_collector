@@ -1,4 +1,4 @@
-# OFW Insurance Premium Collector
+# OFW Protektado
 
 OFW Insurance Premium Collector addresses this by turning the workflow into a Stellar testnet record with clear state transitions. Cross-border value flows are fast on paper but still hard to reconcile for families, workers, and local operators.
 
